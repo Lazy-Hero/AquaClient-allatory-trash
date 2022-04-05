@@ -1,9 +1,0 @@
-Summary for /www/javadecompilers/app/public/data/09.01.21/61463013680ec1d5e0210fc327488f35/AquaClientFreeDeobf.jar
-Decompiled with CFR 0.150
-
-
-l.p.H
-----------------------------
-
-b(java.lang.String )
-  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl57 : IFNULL - null : trying to set 0 previously set to 1
